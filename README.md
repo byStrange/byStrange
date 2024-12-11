@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on: [kia.uz](https://kia.triger.uz)
 
-- 🌱 Currently: **Learning Rust, Nix. Planning Algorithms & Data structures. Have interests on Go (programming language)**
+- 🌱 Currently: **Learning Rust, Nix. Planning Algorithms & Data structures. Have interests on Go**
 
 - Currently (CURRENTLY) working at: [Trigger](https://triger.uz) at tashkent
 
