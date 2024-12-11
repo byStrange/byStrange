@@ -9,17 +9,17 @@
 
 - 🌱 Currently: **Learning Rust, Nix. Planning Algorithms & Data structures. Have interests on Go (programming language)**
 
-- Currently (CURRENTLY) working at: [Trigger](https://triger.uz)
+- Currently (CURRENTLY) working at: [Trigger](https://triger.uz) at tashkent
 
 - 😭 Gaming: [brawl stars (since 2021)](https://link.brawlstars.com/invite/friend/en?tag=9CJYCQR2C&token=zkph2rce)
 
-- Dev environment: [Nixos, hyprland, nvim, tmux, zsh.](Nixos, hyprland, nvim, tmux, zsh.)
+- Dev environment: Nixos, hyprland, nvim, tmux, zsh.
 
 - 💬 Ask me about: **vue3, hyprland**
 
 - 📫 How to reach me: **the.rakhmatullo@gmail.com**
 
-- ⚡ You don't have to read this section. **I got decent skills on table tennis. I can't use windows**
+- ⚡ You don't have to read this section. **I got decent skills on table tennis. I can't use windows. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
