@@ -11,7 +11,7 @@
 
 - Currently (CURRENTLY) working at: [Trigger](https://triger.uz) at tashkent
 
-- 😭 Gaming: [brawl stars (since 2021)](https://link.brawlstars.com/invite/friend/en?tag=9CJYCQR2C&token=zkph2rce)
+- 😭 Gaming: cs2
 
 - Dev environment: Nixos, hyprland, nvim, tmux, zsh.
 
