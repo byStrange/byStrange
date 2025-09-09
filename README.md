@@ -11,15 +11,11 @@
 
 - Currently (CURRENTLY) working at: [Trigger](https://triger.uz) at tashkent
 
-- 😭 Gaming: cs2
-
 - Dev environment: Nixos, hyprland, nvim, tmux, zsh.
-
-- 💬 Ask me about: **vue3, hyprland**
 
 - 📫 How to reach me: **the.rakhmatullo@gmail.com**
 
-- ⚡ You don't have to read this section. **I got decent skills on table tennis. I can't use windows. **
+- . **I can't use windows. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
